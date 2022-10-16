@@ -1,0 +1,8 @@
+home {
+	background-color: lightcoral;
+	border-radius: .5rem;
+	box-shadow: 2px 2px #444;
+	display: inline-block;
+	margin: .5rem;
+	padding: 1rem 2rem;
+}
