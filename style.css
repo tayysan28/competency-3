@@ -1,4 +1,17 @@
-nav {
+a {
 	background-color: darkorange;
-	
+    color: white;
+    font-style: Luminari, fantasy;
+	margin-bottom: 5px;
+	margin-top: 5px;
+    padding: 2px;
+    text-align: center;
+    text-decoration: none;
+    width: 40%;
+}
+
+header {
+	padding: 1rem;
+	text-align: center;
+
 }
